@@ -25,13 +25,13 @@
 
 3º. Al ejecutar el proyecto Actividad2Cliente el programa nos pide que pongamos un archivo para solicitar al servidor.
 
-![captura4](https://user-images.githubusercontent.com/44735067/53662763-07658280-3c64-11e9-8b8f-8e270dfb1228.PNG)
-
 4º. En cuanto pulsamos la tecla enter el proyecto cliente solicita el archivo al proyecto servidor, el servidor busca el archivo y se lo envia al cliente.
 
-![captura5](https://user-images.githubusercontent.com/44735067/53662792-1ea47000-3c64-11e9-9e5d-cb186e38060b.PNG)
+![captura4](https://user-images.githubusercontent.com/44735067/53662763-07658280-3c64-11e9-8b8f-8e270dfb1228.PNG)
+
 
 5º. Si el archivo que solicitamos al servidor no existe, este nos devuelve un mensaje advirtiendonos.
 
-img..
+![captura5](https://user-images.githubusercontent.com/44735067/53662792-1ea47000-3c64-11e9-9e5d-cb186e38060b.PNG)
+
 
