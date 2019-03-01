@@ -7,16 +7,15 @@
 
 2º. El proyecto de la Actividad1Servidor genera un numero aleatorio del 1 al 100 el cual debemos adivinar a traves el proyecto Actividad1Cliente que nos solicita que introduzcamos un numero.
 
-img..
+![captura1](https://user-images.githubusercontent.com/44735067/53662655-c1a8ba00-3c63-11e9-922a-534f637bfcde.PNG)
 
 3º. Un vez introducido el programa nos advierte sin acertamos e numero o por el contrario si es mayor o menor y nos da otra oportunidad para intentarlo.
 
-img..
+![captura2](https://user-images.githubusercontent.com/44735067/53662700-db4a0180-3c63-11e9-99ff-6b966ba11be8.PNG)
 
 4º. Un vez que introducimos el numero correcto, el programa nos avis de que es correcto y finaliza el programa.
 
-img...
-
+![captura3](https://user-images.githubusercontent.com/44735067/53662728-eef56800-3c63-11e9-888f-1d945f4c3109.PNG)
 
 ## Actividad 3.2
 
@@ -26,11 +25,11 @@ img...
 
 3º. Al ejecutar el proyecto Actividad2Cliente el programa nos pide que pongamos un archivo para solicitar al servidor.
 
-img..
+![captura4](https://user-images.githubusercontent.com/44735067/53662763-07658280-3c64-11e9-8b8f-8e270dfb1228.PNG)
 
 4º. En cuanto pulsamos la tecla enter el proyecto cliente solicita el archivo al proyecto servidor, el servidor busca el archivo y se lo envia al cliente.
 
-img..
+![captura5](https://user-images.githubusercontent.com/44735067/53662792-1ea47000-3c64-11e9-9e5d-cb186e38060b.PNG)
 
 5º. Si el archivo que solicitamos al servidor no existe, este nos devuelve un mensaje advirtiendonos.
 
